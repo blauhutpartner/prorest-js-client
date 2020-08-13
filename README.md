@@ -1,5 +1,5 @@
 # prorest-js-client
-A JavaScript client for ProREST, a RESTful web interface for the ERP System ProCoS.
+A JavaScript client for ProREST, a RESTful web interface for the ERP System ProCoS
 
 ## How to install
 Manually download and reference the `ProREST.js` file or use your preferred package manager (recommended, e. g. [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)).
