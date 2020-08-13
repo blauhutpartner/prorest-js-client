@@ -6,7 +6,7 @@ Manually download and reference the `ProREST.js` file or use your preferred pack
 
 ### Usage example
 ```
-yarn add prorest-js-client
+yarn add @blauhutpartner/prorest-js-client
 ```
 
 ```html

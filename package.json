@@ -1,5 +1,5 @@
 {
-  "name": "prorest-js-client",
+  "name": "@blauhutpartner/prorest-js-client",
   "version": "1.0.0",
   "description": "A JavaScript client for ProREST, a RESTful web interface for the ERP System ProCoS",
   "repository": "https://github.com/blauhutpartner/prorest-js-client.git",
