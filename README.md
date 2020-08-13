@@ -17,7 +17,7 @@ yarn add @blauhutpartner/prorest-js-client
 	</head>
 	<body>
 		...
-		<script src="node_modules/ProREST.js"></script>
+		<script src="node_modules/@blauhutpartner/prorest-js-client/ProREST.js"></script>
 	</body>
 </html>
 ```
